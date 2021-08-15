@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Croct API Consume Project
 
 Algumas vezes é necessário alguns refreshs na página para que se comunique corretamente com a API
 
